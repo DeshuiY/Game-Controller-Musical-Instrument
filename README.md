@@ -1,2 +1,2 @@
 # Game-Controller-Musical-Instrument
-EP-390-002 New Musical Instrument Buildng
+EP-390-002 New Musical Instrument Building
