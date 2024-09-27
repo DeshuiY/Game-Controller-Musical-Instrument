@@ -5,9 +5,14 @@ EP-390-002 New Musical Instrument Building
 # For building this Instrument, I used Maxmsp Version 8.6.4, and Ableton Live 11 Suite.
 ### Interaction Design
 
-# How to Open the files
+# How to run the files
 
-1st: open the #Maxmsp#
+1st: Open the Maxmsp file named <h4>Revised Version_Deshui.......Musical Instrument.maxpat<h4>
+2nd: Open the Ableton file named <h4>Max Instrument.als<h4>
+3rd: Check the recoding arm nobe turned on the 2nd track named (This is a defalut mode)
+4th: Dno't forget to check the Preferences setting in the Ableton :D
+
+
 
 - **Button Controls**:
 
