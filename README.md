@@ -17,7 +17,19 @@ EP-390-002 New Musical Instrument Building
 
 
 
-- **Button Controls**:
+<H2>Modes Game Knob Function<H2>
+
+
+# Default Mode:
+
+        - Left Joystick: Pitch
+        - Right Joystick: Velocity
+
+
+# GuZheng Mode:
+
+        - Left Joystick: Pitch
+        - Right Joystick: Velocity
 
 
 # Percussion Mode:
@@ -30,6 +42,11 @@ EP-390-002 New Musical Instrument Building
         - D-pad Down: Snare
         - D-pad Left: Clap
         - D-pad Right: Floor Tom
+
+
+
+        
+
 
 
 # Initialization Instructions
