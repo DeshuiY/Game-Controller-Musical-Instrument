@@ -7,8 +7,8 @@ EP-390-002 New Musical Instrument Building
 
 # How to run the files
 
-1st: Open the Maxmsp file named <h4>Revised Version_Deshui.......Musical Instrument.maxpat<h4>
-2nd: Open the Ableton file named <h4>Max Instrument.als<h4>
+1st: Open the Maxmsp file named # Revised Version_Deshui.......Musical Instrument.maxpat.
+2nd: Open the Ableton file named # Max Instrument.als.
 3rd: Check the recoding arm nobe turned on the 2nd track named (This is a defalut mode)
 4th: Dno't forget to check the Preferences setting in the Ableton :D
 
