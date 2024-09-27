@@ -1,7 +1,7 @@
 # Game-Controller-Musical-Instrument
 EP-390-002 New Musical Instrument Building
 # This Instrument is based on the PS4 Game Controller
-# This Instrument can be played on the Maxmsp
+# This Instrument can be played on the Ableton Live
 # For building this Instrument, I used Maxmsp Version 8.6.4, and Ableton Live 11 Suite.
 ### Interaction Design
 
@@ -65,8 +65,6 @@ Also, I set up vibration for the **Options Button** and **Share Button**, making
 
 
 
-        
-
 
 
 # Initialization Instructions
@@ -74,6 +72,10 @@ Also, I set up vibration for the **Options Button** and **Share Button**, making
 2. Launch the Max patch. Setup a gamepad~
 3. Ensure the controller is recognized by the patch 
 4. Once recognized, I'm ready to start playing!
+
+#  Briefly Summary How it Works
+
+PS4 GameContoller via Maxmsp Mapping Abletion Live.
 
 
 
