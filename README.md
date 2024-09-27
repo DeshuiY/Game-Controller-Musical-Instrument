@@ -7,17 +7,37 @@ EP-390-002 New Musical Instrument Building
 
 # How to run the files
 
-1st: Open the Maxmsp file named  Revised Version_Deshui.......Musical Instrument.maxpat.
+1st: Open the Maxmsp file named  **Revised Version_Deshui.......Musical Instrument.maxpat**.
 
-2nd: Open the Ableton file named  Max Instrument.als.
+2nd: Open the Ableton file named  **Max Instrument.als**.
 
 3rd: Check the recoding arm nobe turned on the 2nd track named (This is a defalut mode)
 
 4th: Dno't forget to check the Preferences setting in the Ableton :D
 
 
+### Introduction;
+
+        
+
+        
+
+### How to play
+
+1. when you first open files, the mode was set as default mode.
+2. Press **Options** button to switch to GuZheng Mode(when you feel vibration from the PS4 controller, it means it works)
+3. Press **Share** button to switch to Percussion Mode(when you feel vibration from the PS4 controller, it means it works)
+   
+
+
+
 
 <H2>Modes Game Knob Function<H2>
+
+# For All Modes:
+
+        - Left Trigger: Reverb
+        - Right Trigger: Echo
 
 
 # Default Mode:
@@ -55,9 +75,6 @@ EP-390-002 New Musical Instrument Building
 3. Ensure the controller is recognized by the patch 
 4. Once recognized, I'm ready to start playing!
 
-### How to play
 
-- **Kick Drum**: Press the **X** button on the PS4 controller to trigger a kick drum sound. You can adjust its pitch using the **left joystick**.
-- **Sine Wave Control**: Press the **left directional button** to generate a sine wave. The **right joystick** will control the pitch of the waveform.
-- Further controls for other sounds (snare, hi-hat, tom) are partially functional but not fully developed.
+
 
