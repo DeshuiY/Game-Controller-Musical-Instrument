@@ -13,14 +13,16 @@ EP-390-002 New Musical Instrument Building
 
 3rd: Check the recoding arm nobe turned on the 2nd track named (This is a defalut mode)
 
-4th: Dno't forget to check the Preferences setting in the Ableton :D
+4th: Dno't forget to check the Preferences setting in the Ableton Live :D
 
 
 ### Introduction;
 
+I designed 3 different modes for the PS4 Game Controller. The **default mode** can be used to play any instrument that you drag into the **default mode** Track.
+The **GuZheng mode** can be used to play specially technique(Finger Rolling). 
+Also, I set up vibration for the **Options Button** and **Share Button**, making the player feel the rumble as a reminder that they have switched modes.
         
-
-        
+  
 
 ### How to play
 
@@ -30,9 +32,7 @@ EP-390-002 New Musical Instrument Building
    
 
 
-
-
-<H2>Modes Game Knob Function<H2>
+<H2>Modes Knob Function<H2>
 
 # For All Modes:
 
